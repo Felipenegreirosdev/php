@@ -7,7 +7,7 @@ $pi = 3.14;
 $nome = "Felipe";
 $acessso = true;
 
-echo $idade;
+echo $idade.<"br">;
 echo $pi;
 echo $nome;
 echo $acesso;
